@@ -1,0 +1,1 @@
+Ödev, gcc isletimsistemlerizamanolc.c -o zamanOlc -lrt ve ./ zamanOlc ile çalışmaktadır.
